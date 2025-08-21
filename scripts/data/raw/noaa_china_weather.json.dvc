@@ -1,0 +1,5 @@
+outs:
+- md5: f7c6caa32f85116ad101d399f4ce4116
+  size: 1089292
+  hash: md5
+  path: noaa_china_weather.json

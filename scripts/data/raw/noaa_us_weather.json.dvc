@@ -1,0 +1,5 @@
+outs:
+- md5: 8bc779973162b57dfa0f6e78193f706f
+  size: 1488445
+  hash: md5
+  path: noaa_us_weather.json

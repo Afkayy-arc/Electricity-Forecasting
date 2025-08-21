@@ -1,0 +1,5 @@
+outs:
+- md5: 6ceac7f14fda22a911fbcb9de94b9a5e
+  size: 10797
+  hash: md5
+  path: global_holidays.csv
