@@ -1,0 +1,5 @@
+outs:
+- md5: b81d2b2d57b2f3f19f504413b8d2e466
+  size: 66772665
+  hash: md5
+  path: monthly_full_release_long_format.csv
